@@ -1,4 +1,4 @@
 print("Helloooo woooorld!!!!")
-for i in range(10):
-	print("Amazing")
-
+i = 0
+while i < 10:
+	print("Sugoiiii !!!")
